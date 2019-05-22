@@ -1,0 +1,31 @@
+{
+    "title": "Root Robotics",
+    "subtitle": "Root Robotics Playgroundbooks",
+    "publisherName": "Root Robotics",
+    "feedIdentifier": "com.rootrobotics",
+    "contactURL": "https://github.com/RootRobotics",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "AR Root",
+            "overviewSubtitle": "Root is a robot that you can code to move, draw, sing, glow, and react to the world around it.",
+            "description": "Learn to compare key paths and pick the right one.",
+            "contentIdentifier": "com.rootrobotics.arroot",
+            "contentVersion": "1.0",
+            "url": "arroot/RootAR.playgroundbook.zip",
+            "publishedDate": "2019-05-31T21:13:57+00:00",
+            "lastUpdatedDate": "2019-05-31T21:13:57+00:00",
+            "thumbnailURL": "arroot/thumbnail.png",
+            "bannerImageURL": "arroot/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "arroot/preview-1.png"
+            ]
+        }
+    ]
+}
