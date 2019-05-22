@@ -1,10 +1,10 @@
 {
     "title": "Root Robotics",
-    "subtitle": "Root Robotics Playgroundbooks",
+    "subtitle": "Root Robotics Playground Books",
     "publisherName": "Root Robotics",
     "feedIdentifier": "com.rootrobotics",
     "contactURL": "https://github.com/RootRobotics",
-    "formatVersion": "1.0",
+    "formatVersion": "1.2",
     "documents": [
         {
             "title": "AR Root",
