@@ -9,7 +9,7 @@ ignoreFiles = [ "tags", "arroot" ]
     [[params.links]]
         icon = "github"
         title = "GitHub"
-        url = "https://github.com/RootRobotics/RootRobotics.github.io"
+        url = "https://github.com/RootRobotics"
     [[params.links]]
         iconset = "fas"
         icon = "globe"
@@ -24,4 +24,4 @@ ignoreFiles = [ "tags", "arroot" ]
         background = "#3773BF"
     [params.subscribe]
         title = "Download Playground Book"
-        url = "https://rootrobotics.github.io/arroot/arroot.playgroundbook.zip"
+        url = "https://rootrobotics.github.io/arroot/AR-Root-Robot.playgroundbook.zip"
