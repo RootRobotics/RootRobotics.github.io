@@ -23,5 +23,5 @@ ignoreFiles = [ "tags", "arroot" ]
     [params.colors]
         background = "#3773BF"
     [params.subscribe]
-        title = "Subscribe with Swift Playgrounds App"
-        url = "https://developer.apple.com/ul/sp0?url=https://rootrobotics.github.io/feed.json"
+        title = "Download Playground Book"
+        url = "https://rootrobotics.github.io/arroot/arroot.playgroundbook.zip"
