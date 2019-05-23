@@ -8,7 +8,7 @@
     "documents": [
         {
             "title": "Draw With AR Root!",
-            "overviewSubtitle": "Root is a robot that you can code to move, draw, sing, glow, and react to the world around it.",
+            "overviewSubtitle": "The magic of AR meets coding.",
             "description": "Make a splash into the world of coding, augmented reality and robotics with Root, a robot that can move, draw, sing, glow and react to the world around it.\n\nIn this playground, you’ll meet Augmented Reality (AR) Root. AR uses the camera on your iPad to place digital objects in the real world around you. AR Root can drive and draw on any surface, both flat or vertical, so get ready for some epic virtual graffiti! Each lesson will teach you how to code your Root to move and control its marker, so by the end you’ll be ready to unleash your inner Pixel Picasso.",
             "contentIdentifier": "com.rootrobotics.arroot",
             "contentVersion": "1.0",
