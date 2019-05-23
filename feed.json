@@ -24,7 +24,12 @@
                 }
             ],
             "previewImageURLs": [
-                "arroot/preview-1.png"
+                "arroot/pagePreview_meetRoot.png",
+                "arroot/pagePreview_moveRoot.png",
+                "arroot/pagePreview_makeYourMark.png",
+                "arroot/pagePreview_loops.png",
+                "arroot/pagePreview_rootGraffiti.png",
+                "arroot/pagePreview_rootColoredGlasses.png"
             ]
         }
     ]
