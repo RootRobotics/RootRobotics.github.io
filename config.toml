@@ -4,6 +4,7 @@ title = "Root Robot AR Swift Playground"
 theme = "hallo"
 publishDir = ""
 ignoreFiles = [ "tags", "arroot" ]
+googleAnalytics = "UA-76730247-5"
 [params]
     greeting = "Root Robot AR Swift Playground"
     [[params.links]]
